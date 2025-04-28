@@ -1,3 +1,3 @@
 def call() {
-  sh 'echo Hi ICU Team GOOD EVENING'
+  sh 'echo Hi FROM JENKINS PIPELINE'
 }
